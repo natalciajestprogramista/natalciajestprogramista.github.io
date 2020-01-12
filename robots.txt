@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contact/
+Disallow: /about/
+
+User-agent: Googlebot-Image
+Disallow: /

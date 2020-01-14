@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /contact/
-Disallow: /about/
+Disallow: /contact/contact.html
+Disallow: /about/about.html
 
 User-agent: Googlebot-Image
 Disallow: /
